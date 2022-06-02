@@ -8,7 +8,7 @@ import List from './component/list/list';
 import Parent from './component/List1/list1';
 import MovieApp from "./component/assignment-movie-app/movie/movie";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root')); 
 root.render(
   <React.StrictMode>
     {/* <Counter/>

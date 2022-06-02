@@ -408,7 +408,7 @@ export let Book=()=>{
                 setNovel("Novel");
                 return setCurrentbook(()=>[...data]);
             }
-        } 
+        }  
 
         let handletech=()=>{
             if(technology==="Technology"){
